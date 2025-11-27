@@ -96,4 +96,14 @@
         display: flex;
         align-items: center;
     }
+
+    /* Hide List Property button on mobile */
+    .btn-accent {
+        display: none;
+    }
+
+    /* Reduce logo font size on mobile */
+    .logo {
+        font-size: 1.1rem;
+    }
 }
